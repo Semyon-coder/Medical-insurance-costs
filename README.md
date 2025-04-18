@@ -25,9 +25,9 @@ The dataset used in this analysis includes the following columns:
 
 ## Key Insights
 Charges can be split into three categories:  
-• Low (0 - 12 thousand): the majority of non-smokers  
-• Medium (12 - 30 thousand): smokers with BMI ≤ 30 and the minority of non-smokers  
-• High (30 - 50 thousand): smokers with BMI > 30  
+- **Low (0 - 12 thousand)**: the majority of non-smokers  
+- **Medium (12 - 30 thousand)**: smokers with BMI ≤ 30 and the minority of non-smokers  
+- **High (30 - 50 thousand)**: smokers with BMI > 30  
   
 Within each category, there is a positive relation between age and charges (the older the client is, the higher the charges).  
 
